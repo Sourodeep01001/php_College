@@ -66,17 +66,17 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Institute <b
                                         class="caret"></b></a>
                                 <ul class="dropdown-menu multi-level">
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about.php">About</a></li>
                                     <li>
-                                        <a href="society_members.html">Society Members</a>
+                                        <a href="#!">Society Members</a>
                                     </li>
                                     <li>
-                                        <a href="academic_council.html">Academic Council</a>
+                                        <a href="#!">Academic Council</a>
                                     </li>
                                     <li>
-                                        <a href="finance_committee.html">Finance Committee</a>
+                                        <a href="#!">Finance Committee</a>
                                     </li>
-                                    <li><a href="rti.html">RTI</a></li>
+                                    <li><a href="rti.php">RTI</a></li>
                                     <li class="dropdown-submenu">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Linkages</a>
                                         <ul class="dropdown-menu"></ul>
@@ -109,8 +109,8 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">People <b
                                         class="caret"></b></a>
                                 <ul class="dropdown-menu multi-level">
-                                    <li><a href="faculty.html">Faculty</a></li>
-                                    <li><a href="staff.html">Staff</a></li>
+                                    <li><a href="#!">Faculty</a></li>
+                                    <li><a href="#!">Staff</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -118,13 +118,13 @@
                                         class="caret"></b></a>
                                 <ul class="dropdown-menu multi-level">
                                     <li>
-                                        <a href="student_corner.html">Student's Corner</a>
+                                        <a href="student_corner.php">Student's Corner</a>
                                     </li>
-                                    <li><a href="library.html">Library</a></li>
-                                    <li><a href="file_download.html">Download Diploma 2nd sem CST marksheet</a></li>
+                                    <li><a href="library.php">Library</a></li>
+                                    <li><a href="#!">Download Diploma 2nd sem CST marksheet</a></li>
                                 </ul>
                             </li>
-                            <li><a href="gallery.html">Photo Gallery</a></li>
+                            <li><a href="gallery.php">Photo Gallery</a></li>
                             <li>  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b
                                 class="caret"></b></a>
                         <ul class="dropdown-menu multi-level">
@@ -204,24 +204,24 @@
                 </div>
                 <div class="col-sm-4 links">
                     <div>
-                        <a href="index.html#news">News</a>
+                        <a href="index.php#News">News</a>
                         <i class="seperator"></i>
-                        <a href="index.html#announcements">Announcement</a>
+                        <a href="index.php#Announcement">Announcement</a>
                         <i class="seperator"></i>
-                        <a href="index.html#events">Events</a>
+                        <a href="index.php#Events">Events</a>
                     </div>
                     <div>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                         <i class="seperator"></i>
-                        <a href="rti.html">RTI</a>
+                        <a href="rti.php">RTI</a>
                         <i class="seperator"></i>
                     </div>
                     <div>
-                        <a href="admissions.html">Admission</a>
+                        <a href="addmissions.php">Admission</a>
                         <i class="seperator"></i>
-                        <a href="student_corner.html">Student</a>
+                        <a href="student_corner.php">Student</a>
                         <i class="seperator"></i>
-                        <a href="faculty.html">Faculty</a>
+                        <a href="#!">Faculty</a>
                     </div>
                 </div>
                 <div class="col-sm-4 footer-social">

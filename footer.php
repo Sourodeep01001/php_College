@@ -9,11 +9,11 @@
             </div>
             <div class="col-sm-4 links">
                 <div>
-                    <a href="index.php">News</a>
+                    <a href="index.php#News">News</a>
                     <i class="seperator"></i>
-                    <a href="#announcements">Announcement</a>
+                    <a href="index.php#Announcement">Announcement</a>
                     <i class="seperator"></i>
-                    <a href="#events">Events</a>
+                    <a href="index.php#events">Events</a>
                 </div>
                 <div>
                     <a href="index.php">Home</a>
