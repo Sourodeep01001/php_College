@@ -121,14 +121,14 @@
                                         <a href="student_corner.php">Student's Corner</a>
                                     </li>
                                     <li><a href="library.php">Library</a></li>
-                                    <li><a href="#!">Download Diploma 2nd sem CST marksheet</a></li>
+                                    <li><a href="marksheet.php">Download Diploma 2nd sem CST marksheet</a></li>
                                 </ul>
                             </li>
                             <li><a href="gallery.php">Photo Gallery</a></li>
                             <li>  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b
                                 class="caret"></b></a>
                         <ul class="dropdown-menu multi-level">
-                            <li><a href="#!">Student Login</a></li>
+                            <li><a href="studentLogin.php">Student Login</a></li>
                             <li><a href="#!">Admin Login</a></li>
                         </ul>
                         </li>

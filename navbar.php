@@ -109,7 +109,7 @@
                                             <a href="student_corner.php">Student's Corner</a>
                                         </li>
                                         <li><a href="library.php">Library</a></li>
-                                        <li><a href="file_download.html">Download Diploma 2nd sem CST marksheet</a></li>
+                                        <li><a href="marksheet.php">Download Diploma 2nd sem CST marksheet</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="gallery.php">Photo Gallery</a></li>
